@@ -6,7 +6,7 @@ use App\Controllers\BaseController;
 use App\Models\UserModel;
 use CodeIgniter\HTTP\ResponseInterface;
 
-class Login extends BaseController
+class LoginController extends BaseController
 {
     public function index()
     {

@@ -78,7 +78,7 @@
             <div class="col-lg-8">
                 <div class="card shadow p-4">
                     <form
-                        action="[GANTI DENGAN URL PROSES PHP/BACKEND ANDA]"
+                        action="/pendaftaran"
                         method="POST"
                         enctype="multipart/form-data">
                         <!-- Nama Lengkap -->
@@ -184,7 +184,7 @@
                                 type="file"
                                 class="form-control"
                                 id="akte"
-                                name="akte"
+                                name="photo_akte"
                                 accept=".pdf,.doc,.docx,.png,.jpg,.jpeg"
                                 required />
                             <div class="form-text">Maksimal ukuran file 1 MB.</div>
@@ -197,7 +197,7 @@
                                 type="file"
                                 class="form-control"
                                 id="kk"
-                                name="kk[]"
+                                name="photo_kk"
                                 accept=".pdf,.doc,.docx,.png,.jpg,.jpeg"
                                 multiple
                                 required />
@@ -213,7 +213,7 @@
                                 type="file"
                                 class="form-control"
                                 id="ijazah"
-                                name="ijazah"
+                                name="photo_ijazah"
                                 accept=".pdf,.doc,.docx,.png,.jpg,.jpeg" />
                         </div>
 
@@ -233,10 +233,20 @@
                         <!-- Submit -->
                         <div class="d-grid">
                             <button type="submit" class="btn btn-success btn-lg fw-bold">
-                                KIRIM PENDAFTARAN
+                                Daftar Sekarang
                             </button>
                         </div>
                     </form>
+                    <?php if (session()->getFlashdata('message')): ?>
+                        <div class="alert alert-success mt-3">
+                            <?= session()->getFlashdata('message'); ?>
+                        </div>
+                    <?php endif; ?>
+                    <?php if (session()->getFlashdata('errors')): ?>
+                        <div class="alert alert-danger mt-3">
+                            <?= session()->getFlashdata('errors'); ?>
+                        </div>
+                    <?php endif; ?>
                 </div>
             </div>
         </div>
