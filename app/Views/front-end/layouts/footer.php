@@ -15,10 +15,10 @@
                 <p><i class="bi bi-envelope-fill"></i> Email: info@nurulalami.sch.id</p>
                 <p><i class="bi bi-phone-fill"></i> Telp: 0822-4905-4640</p>
                 <div class="social-links mt-3">
-                    <a href="#" class="text-white me-2"><i class="bi bi-facebook"></i></a>
-                    <a href="#" class="text-white me-2"><i class="bi bi-instagram"></i></a>
-                    <a href="#" class="text-white me-2"><i class="bi bi-youtube"></i></a>
-                    <a href="#" class="text-white"><i class="bi bi-whatsapp"></i></a>
+                    <a href="https://www.facebook.com/ppmnurulalami" target="_blank" class="text-white me-2"><i class="bi bi-facebook"></i></a>
+                    <a href="https://www.instagram.com/ppmnurulalami" target="_blank" class="text-white me-2"><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.youtube.com/@ppmnurulalami" target="_blank" class="text-white me-2"><i class="bi bi-youtube"></i></a>
+                    <a href="https://www.tiktok.com/@ppmnurulalami" target="_blank" class="text-white"><i class="bi bi-tiktok"></i></a>
                 </div>
             </div>
             <div class="col-md-4 col-lg-3 mb-4">

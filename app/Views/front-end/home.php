@@ -14,10 +14,14 @@
                     </div>
                     <div class="card-body">
                         <ul class="list-group list-group-flush">
-                            <li class="list-group-item">Lulusan SD/MI atau SMP/MTs.</li>
-                            <li class="list-group-item">Fotokopi Ijazah/SKL dan KK.</li>
-                            <li class="list-group-item">Mengisi formulir pendaftaran.</li>
-                            <li class="list-group-item">Pas Foto 3x4 (2 Lembar).</li>
+                            <li class="list-group-item">1. Fotocopy Ijazah STTB SD/MI atau SMP/MTs yang telah di legalisir.</li>
+                            <li class="list-group-item">2. Fotocopy kartu keluarga (5 Lembar)</li>
+                            <li class="list-group-item">3. Fotocopy Akte Kelahiran (5 Lembar)</li>
+                            <li class="list-group-item">4. Fotocopy KTP Orang tua/wali (5 Lembar)</li>
+                            <li class="list-group-item">5. Surat Kelakuan Baik dari sekolah (1 Lembar)</li>
+                            <li class="list-group-item">6. Surat keterangan sehat dari puskesmas (1 Lembar)</li>
+                            <li class="list-group-item">7. Pas Foto 3x4 (5 Lembar) bagound merah.</li>
+                            <li class="list-group-item">8. materai 10 ribu (4 lembar).</li>
                         </ul>
                     </div>
                 </div>
@@ -31,15 +35,16 @@
                     <div class="card-body">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">
-                                Pendaftaran Online: [Tgl] - [Tgl]
+                                Pendaftaran Online: 01 Januari 2026 - 30 Juni 2026
                             </li>
                             <li class="list-group-item">
-                                Ujian Seleksi: [Tanggal Ujian]
+                                Gelombang 1: 01 Januari 2026 - 30 Maret 2026
                             </li>
                             <li class="list-group-item">
-                                Pengumuman Hasil: [Tanggal Pengumuman]
+                                Gelombang 2: 01 April 2026 - 30 Juni 2026
                             </li>
-                            <li class="list-group-item">Daftar Ulang: [Tgl] - [Tgl]</li>
+                            <li class="list-group-item">Kedatangan Santri serta Membawa
+                                Persayaratan yang sudah di tetapkan: 17 Juli 2026</li>
                         </ul>
                     </div>
                 </div>
@@ -52,11 +57,11 @@
                     </div>
                     <div class="card-body">
                         <p class="card-text">
-                            Biaya pendaftaran sebesar **Rp 250.000**.
+                            Biaya pendaftaran sebesar Rp. 200.000
                         </p>
                         <p class="text-muted small">
-                            Pembayaran dapat ditransfer ke Bank Syariah Mandiri (BSM) No.
-                            Rek. **[Nomor Rekening]** a.n. [Nama Yayasan].
+                            Pembayaran dapat ditransfer ke Bank Mandiri No.
+                            Rek. 1630-0042-73200 a.n. YAYASAN NURUL ALAMI.
                         </p>
                     </div>
                     <div class="card-footer text-center">
